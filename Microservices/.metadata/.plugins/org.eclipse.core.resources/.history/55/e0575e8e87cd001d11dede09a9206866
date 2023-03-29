@@ -1,0 +1,5 @@
+aws.region.static = ap-south-1
+aws.region.auto = true
+aws.stack.auto = true
+aws.credentials.acccessKey = AKIAV64VOPQ7I6GH67HS
+aws.credentials.secretKey = 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
